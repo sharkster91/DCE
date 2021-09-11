@@ -1,5 +1,5 @@
 version=1
-title=Dismemberment, Cannibalism, and Effigies
+title=Effegies, Cannibalism, and Dismemberment
 description=TBD
 tags=
 visibility=private

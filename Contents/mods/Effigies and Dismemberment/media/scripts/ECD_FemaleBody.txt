@@ -1,0 +1,83 @@
+module ECD
+{
+
+         item FemaleHead
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Head,
+        Icon	=	FemaleHead,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_Head,
+    }   
+
+        item FemaleTorso
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Torso,
+        Icon	=	FemaleTorso,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_Torso,
+    }   
+
+        item FemaleLeftArm
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Left Arm,
+        Icon	=	FemaleArm,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_LArm,
+    } 
+
+        item FemaleRightArm
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Right Arm,
+        Icon	=	FemaleArm,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_RArm,
+    } 
+
+        item FemaleLeftLeg
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Left Leg,
+        Icon	=	FemaleArm,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_LLeg,
+    } 
+
+        item FemaleRightLeg
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Right Leg,
+        Icon	=	FemaleArm,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_RLeg,
+    } 
+
+
+}
