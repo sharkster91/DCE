@@ -1,82 +1,82 @@
 module ECD
 {
 
-         item FemaleHead
+         item MaleHead
 
     {
         Weight	=	1,
         Type	=	Food,
-        DisplayName	=	 Severed Female Head,
-        Icon	=	FemaleHead,
+        DisplayName	=	 Severed Male Head,
+        Icon	=	MaleHead,
         FoodType    =   Meat,
         DaysTotallyRotten	=	3,
         DaysFresh	=	3,
-        WorldStaticModel = Female_Head,
+        WorldStaticModel = Male_Head,
     }   
 
-        item FemaleTorso
+        item MaleTorso
 
     {
         Weight	=	1,
         Type	=	Food,
-        DisplayName	=	 Severed Female Torso,
-        Icon	=	FemaleTorso,
+        DisplayName	=	 Severed Male Torso,
+        Icon	=	MaleTorso,
         FoodType    =   Meat,
         DaysTotallyRotten	=	3,
         DaysFresh	=	3,
-        WorldStaticModel = Female_Torso,
+        WorldStaticModel = Male_Torso,
     }   
 
-        item FemaleLeftArm
+        item MaleLeftArm
 
     {
         Weight	=	1,
         Type	=	Food,
-        DisplayName	=	 Severed Female Left Arm,
-        Icon	=	FemaleArm,
+        DisplayName	=	 Severed Male Left Arm,
+        Icon	=	MaleLeftArm,
         FoodType    =   Meat,
         DaysTotallyRotten	=	3,
         DaysFresh	=	3,
-        WorldStaticModel = Female_LArm,
+        WorldStaticModel = Male_LArm,
     } 
 
-        item FemaleRightArm
+        item MaleRightArm
 
     {
         Weight	=	1,
         Type	=	Food,
-        DisplayName	=	 Severed Female Right Arm,
-        Icon	=	FemaleArm,
+        DisplayName	=	 Severed Male Right Arm,
+        Icon	=	MaleRightArm,
         FoodType    =   Meat,
         DaysTotallyRotten	=	3,
         DaysFresh	=	3,
-        WorldStaticModel = Female_RArm,
+        WorldStaticModel = Male_RArm,
     } 
 
-        item FemaleLeftLeg
+        item MaleLeftLeg
 
     {
         Weight	=	1,
         Type	=	Food,
-        DisplayName	=	 Severed Female Left Leg,
-        Icon	=	FemaleArm,
+        DisplayName	=	 Severed Male Left Leg,
+        Icon	=	MaleLeftLeg,
         FoodType    =   Meat,
         DaysTotallyRotten	=	3,
         DaysFresh	=	3,
-        WorldStaticModel = Female_LLeg,
+        WorldStaticModel = Male_LLeg,
     } 
 
-        item FemaleRightLeg
+        item MaleRightLeg
 
     {
         Weight	=	1,
         Type	=	Food,
-        DisplayName	=	 Severed Female Right Leg,
-        Icon	=	FemaleArm,
+        DisplayName	=	 Severed Male Right Leg,
+        Icon	=	MaleRightLeg,
         FoodType    =   Meat,
         DaysTotallyRotten	=	3,
         DaysFresh	=	3,
-        WorldStaticModel = Female_RLeg,
+        WorldStaticModel = Male_RLeg,
     } 
 
 
