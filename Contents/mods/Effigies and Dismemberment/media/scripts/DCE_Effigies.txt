@@ -1,0 +1,16 @@
+module DCE
+{
+
+        item Effigy1
+
+    {
+        Weight	=	20,
+        Type	=	Food,
+        DisplayName	=	 Effigy,
+        Icon	=	MaleHead,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Effigy1,
+    }   
+}

@@ -84,5 +84,13 @@ module Base
 		texture = WorldItems/FemaleBodyDismembered,
 		scale = 0.5,
 	}
+
+	    model Effigy1
+	{
+		mesh = WorldItems/Effigy1,
+		texture = WorldItems/Effigy1,
+		scale = 0.5,
+	}
+	
 	
 }
