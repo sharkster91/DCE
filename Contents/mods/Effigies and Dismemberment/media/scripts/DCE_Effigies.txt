@@ -13,4 +13,43 @@ module DCE
         DaysFresh	=	3,
         WorldStaticModel = Effigy1,
     }   
+
+        item Effigy2
+
+    {
+        Weight	=	20,
+        Type	=	Food,
+        DisplayName	=	 Effigy,
+        Icon	=	MaleHead,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Effigy2,
+    }   
+
+        item Effigy3
+
+    {
+        Weight	=	20,
+        Type	=	Food,
+        DisplayName	=	 Effigy,
+        Icon	=	MaleHead,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Effigy3,
+    } 
+
+        item Effigy4
+
+    {
+        Weight	=	20,
+        Type	=	Food,
+        DisplayName	=	 Effigy,
+        Icon	=	MaleHead,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Effigy4,
+    }   
 }

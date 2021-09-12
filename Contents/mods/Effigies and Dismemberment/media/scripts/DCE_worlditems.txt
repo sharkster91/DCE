@@ -91,6 +91,29 @@ module Base
 		texture = WorldItems/Effigy1,
 		scale = 0.5,
 	}
+
+	
+	    model Effigy2
+	{
+		mesh = WorldItems/Effigy2,
+		texture = WorldItems/Effigy2,
+		scale = 0.5,
+	}
+	
+		model Effigy3
+	{
+		mesh = WorldItems/Effigy3,
+		texture = WorldItems/Effigy3,
+		scale = 0.5,
+	}
+
+		model Effigy4
+	{
+		mesh = WorldItems/Effigy4,
+		texture = WorldItems/Effigy4,
+		scale = 0.5,
+	}
+	
 	
 	
 }
