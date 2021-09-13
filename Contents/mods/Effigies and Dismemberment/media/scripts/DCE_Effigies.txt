@@ -5,12 +5,9 @@ module DCE
 
     {
         Weight	=	20,
-        Type	=	Food,
-        DisplayName	=	 Effigy,
+        Type	=	Normal,
+        DisplayName	=	 Effigy 1,
         Icon	=	MaleHead,
-        FoodType    =   Meat,
-        DaysTotallyRotten	=	3,
-        DaysFresh	=	3,
         WorldStaticModel = Effigy1,
     }   
 
@@ -18,12 +15,9 @@ module DCE
 
     {
         Weight	=	20,
-        Type	=	Food,
-        DisplayName	=	 Effigy,
+        Type	=	Normal,
+        DisplayName	=	 Effigy 2,
         Icon	=	MaleHead,
-        FoodType    =   Meat,
-        DaysTotallyRotten	=	3,
-        DaysFresh	=	3,
         WorldStaticModel = Effigy2,
     }   
 
@@ -31,12 +25,9 @@ module DCE
 
     {
         Weight	=	20,
-        Type	=	Food,
-        DisplayName	=	 Effigy,
+        Type	=	Normal,
+        DisplayName	=	 Effigy 3,
         Icon	=	MaleHead,
-        FoodType    =   Meat,
-        DaysTotallyRotten	=	3,
-        DaysFresh	=	3,
         WorldStaticModel = Effigy3,
     } 
 
@@ -44,12 +35,29 @@ module DCE
 
     {
         Weight	=	20,
-        Type	=	Food,
-        DisplayName	=	 Effigy,
+        Type	=	Normal,
+        DisplayName	=	 Effigy 4,
         Icon	=	MaleHead,
-        FoodType    =   Meat,
-        DaysTotallyRotten	=	3,
-        DaysFresh	=	3,
         WorldStaticModel = Effigy4,
     }   
+
+        item FemaleHeadonPike
+
+    {
+        Weight	=	20,
+        Type	=	Normal,
+        DisplayName	=	 Female Head (Piked),
+        Icon	=	MaleHead,
+        WorldStaticModel = FemaleHeadPike,
+    }  
+
+        item MaleHeadonPike
+
+    {
+        Weight	=	20,
+        Type	=	Normal,
+        DisplayName	=	 Male Head (Piked),
+        Icon	=	MaleHead,
+        WorldStaticModel = MaleHeadPike,
+    }  
 }

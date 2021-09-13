@@ -92,7 +92,6 @@ module Base
 		scale = 0.5,
 	}
 
-	
 	    model Effigy2
 	{
 		mesh = WorldItems/Effigy2,
@@ -113,7 +112,19 @@ module Base
 		texture = WorldItems/Effigy4,
 		scale = 0.5,
 	}
+
+		model FemaleHeadPike
+	{
+		mesh = WorldItems/FemaleHeadPike,
+		texture = WorldItems/FemaleHeadPike,
+		scale = 0.5,
+	}
 	
-	
-	
+		model MaleHeadPike
+	{
+		mesh = WorldItems/MaleHeadPike,
+		texture = WorldItems/MaleHeadPike,
+		scale = 0.5,
+	}
+		
 }
