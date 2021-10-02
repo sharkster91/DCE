@@ -1,0 +1,209 @@
+module Base
+{
+	
+        model Male_Head
+	{
+		mesh = WorldItems/MaleHead_WorldItem,
+		texture = WorldItems/MaleBodyDismembered,
+		scale = 0.1,
+	}
+
+	    model Male_Torso
+	{
+		mesh = WorldItems/MaleTorso_WorldItem,
+		texture = WorldItems/MaleBodyDismembered,
+		scale = 0.1,
+	}
+
+    	 model Male_RArm
+	{
+		mesh = WorldItems/MaleRArm_WorldItem,
+		texture = WorldItems/MaleBodyDismembered,
+		scale = 0.5,
+	}
+
+        model Male_LArm
+	{
+		mesh = WorldItems/MaleLarm_WorldItem,
+		texture = WorldItems/MaleBodyDismembered,
+		scale = 0.5,
+	}
+
+        model Male_RLeg
+	{
+		mesh = WorldItems/MaleRLeg_WorldItem,
+		texture = WorldItems/MaleBodyDismembered,
+		scale = 0.5,
+	}
+
+        model Male_LLeg
+	{
+		mesh = WorldItems/MaleLLeg_WorldItem,
+		texture = WorldItems/MaleBodyDismembered,
+		scale = 0.5,
+	}
+
+	    model Female_Head
+	{
+		mesh = WorldItems/FemaleHead_WorldItem,
+		texture = WorldItems/FemaleBodyDismembered,
+		scale = 0.1,
+	}
+
+	    model Female_Torso
+	{
+		mesh = WorldItems/FemaleTorso_WorldItem,
+		texture = WorldItems/FemaleBodyDismembered,
+		scale = 0.1,
+	}
+
+    	 model Female_RArm
+	{
+		mesh = WorldItems/FemaleRArm_WorldItem,
+		texture = WorldItems/FemaleBodyDismembered,
+		scale = 0.5,
+	}
+
+        model Female_LArm
+	{
+		mesh = WorldItems/FemaleLArm_WorldItem,
+		texture = WorldItems/FemaleBodyDismembered,
+		scale = 0.5,
+	}
+
+	     model Female_LArmSkeleton
+	{
+		mesh = WorldItems/FemaleLArmSkeleton_WorldItem,
+		texture = WorldItems/Skeleton,
+		scale = 0.5,
+	}
+
+		model Female_LArmSkinned
+	{
+		mesh = WorldItems/FemaleLArmSkinned_WorldItem,
+		texture = WorldItems/Skeleton,
+		scale = 0.5,
+	}
+
+
+        model Female_RLeg
+	{
+		mesh = WorldItems/FemaleRLeg_WorldItem,
+		texture = WorldItems/FemaleBodyDismembered,
+		scale = 0.5,
+	}
+
+        model Female_LLeg
+	{
+		mesh = WorldItems/FemaleLLeg_WorldItem,
+		texture = WorldItems/FemaleBodyDismembered,
+		scale = 0.5,
+	}
+
+		model Female_Skull
+	{
+		mesh = WorldItems/FemaleSkull_WorldItem,
+		texture = WorldItems/Skeleton,
+		scale = 0.1,
+	}
+
+		model Female_SkullSkinned
+	{
+		mesh = WorldItems/FemaleSkull_WorldItem,
+		texture = WorldItems/SkeletonMuscle,
+		scale = 0.1,
+	}
+
+		model Female_Ribcage
+	{
+		mesh = WorldItems/FemaleRibcage_WorldItem,
+		texture = WorldItems/Skeleton,
+		scale = 0.1,
+	}
+
+		model Female_RibcageSkinned
+	{
+		mesh = WorldItems/FemaleRibcage_WorldItem,
+		texture = WorldItems/SkeletonMuscle,
+		scale = 0.1,
+	}
+
+	    model Effigy1
+	{
+		mesh = WorldItems/Effigy1,
+		texture = WorldItems/Effigy1,
+		scale = 0.5,
+	}
+
+	    model Effigy2
+	{
+		mesh = WorldItems/Effigy2,
+		texture = WorldItems/Effigy2,
+		scale = 0.5,
+	}
+	
+		model Effigy3
+	{
+		mesh = WorldItems/Effigy3,
+		texture = WorldItems/Effigy3,
+		scale = 0.5,
+	}
+
+		model Effigy4
+	{
+		mesh = WorldItems/Effigy4,
+		texture = WorldItems/Effigy4,
+		scale = 0.5,
+	}
+
+		model FemaleHeadPike
+	{
+		mesh = WorldItems/FemaleHeadPike,
+		texture = WorldItems/FemaleHeadPike,
+		scale = 0.5,
+	}
+	
+		model MaleHeadPike
+	{
+		mesh = WorldItems/MaleHeadPike,
+		texture = WorldItems/MaleHeadPike,
+		scale = 0.5,
+	}
+
+		model FemaleHeadStick
+	{
+		mesh = WorldItems/FemaleHeadStick,
+		texture = WorldItems/FemaleHeadStick,
+		scale = 0.5,
+	}
+	
+		model MaleHeadStick
+	{
+		mesh = WorldItems/MaleHeadStick,
+		texture = WorldItems/MaleHeadStick,
+		scale = 0.5,
+	}
+
+		model FemaleHeadsStick
+	{
+		mesh = WorldItems/FemaleHeadsStick,
+		texture = WorldItems/FemaleHeadStick,
+		scale = 0.5,
+	}
+	
+		model MaleHeadsStick
+	{
+		mesh = WorldItems/MaleHeadsStick,
+		texture = WorldItems/MaleHeadStick,
+		scale = 0.5,
+	}
+
+		model M17
+	{
+		mesh = WorldItems/M17,
+		texture = WorldItems/M17,
+		scale = 0.5,
+	}
+
+		
+}

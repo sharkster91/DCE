@@ -1,0 +1,23 @@
+module ED
+{
+
+    recipe Cut up corpse
+    {
+       CorpseMale=1,
+       keep [ED_CutUpBodies.CanCutUpBodies],
+       Result:MaleHead=1,
+       OnCreate:ED_CutUpBodies.MALE,
+       Time:750,
+       Sound:OpenBox,
+    }
+
+	recipe Cut up corpse
+    {
+       CorpseFemale=1,
+       keep [ED_CutUpBodies.CanCutUpBodies],
+       Result: FemaleHead=1,
+       OnCreate:ED_CutUpBodies.FEMALE,
+       Time:750,
+       Sound:OpenBox,
+    }
+}

@@ -1,0 +1,117 @@
+module ED
+{
+
+    recipe Mount male head
+    {
+       MaleHead=1, SpearCrafted=1,
+       Result:MaleHeadonStick=1,
+       Time: 450,
+    }
+    
+    recipe Mount male heads
+    {
+       MaleHead=3, SpearCrafted=1,
+       Result:MaleHeadsonStick=1,
+       Time: 1150,
+    }
+
+    recipe Put male head on pike
+    {
+       MaleHead=1,TreeBranch=1,
+       Result:MaleHeadonPike=1,
+       Time: 450,
+    }
+
+    recipe Mount female head
+    { 
+       FemaleHead=1, SpearCrafted=1,
+       Result:FemaleHeadonStick=1,
+       Time: 450,
+       Category: Survivalist,
+    }
+
+    recipe Mount female head
+    { 
+       FemaleHead=1, SpearCrafted=1,
+       Result:FemaleHeadonStick=1,
+       Time: 450,
+    }
+
+    recipe Mount female heads
+    { 
+       FemaleHead=3, SpearCrafted=1,
+       Result:FemaleHeadonStick=1,
+       Time: 1150,
+    }
+
+    recipe Put female head on pike
+
+    {
+       FemaleHead=1,TreeBranch=1,
+       Result:FemaleHeadonPike=1,
+       Time: 450,
+    }
+
+    recipe Create Male Effigy
+
+    {
+       MaleHead=1,
+       MaleTorso=1,
+       MaleRightArm=1,
+       MaleLeftArm=1,
+       SpearCrafted=1,
+       TreeBranch=2,
+       Stone=4,
+       Result:Effigy1=1,
+       Time: 2000,
+    }
+
+    recipe Create Male Effigy
+
+    {
+       MaleHead=2,
+       MaleTorso=1,
+       MaleRightArm=1,
+       MaleLeftArm=1,
+       SpearCrafted=1,
+       Stone=4,
+       Result:Effigy2=1,
+       Time: 2000,
+    }
+
+    recipe Create Female Effigy
+
+    {
+       FemaleHead=2,
+       FemaleTorso=1,
+       FemaleLeftLeg=1,
+       FemaleRightLeg=1,
+       SpearCrafted=1,
+       TreeBranch=2,
+       Stone=4,
+       Result:Effigy3=1,
+       Time: 2000,
+    }
+
+    recipe Create Female Effigy
+
+    {
+       FemaleHead=2,
+       FemaleTorso=1,
+       FemaleLeftLeg=1,
+       FemaleRightLeg=1,
+       SpearCrafted=1,
+       TreeBranch=2,
+       Stone=4,
+       Result:Effigy4=1,
+       Time: 2000,
+    }
+
+
+
+    
+
+
+
+
+}

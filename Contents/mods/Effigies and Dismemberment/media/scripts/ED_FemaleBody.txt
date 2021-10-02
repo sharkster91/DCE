@@ -1,0 +1,153 @@
+module ED
+{
+
+         item FemaleHead
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Head,
+        Icon	=	FemaleHead,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_Head,
+    }   
+
+        item FemaleTorso
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Torso,
+        Icon	=	FemaleTorso,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_Torso,
+    }   
+
+        item FemaleLeftArm
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Left Arm,
+        Icon	=	FemaleLeftArm,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_LArm,
+    } 
+
+        item FemaleLeftArmSkeleton
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Skeletal Female Left Arm,
+        Icon	=	FemaleLeftArm,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_LArmSkeleton,
+    } 
+
+        item FemaleLeftArmSkinned
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Skinned Female Left Arm,
+        Icon	=	FemaleLeftArm,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_LArmSkinned,
+    } 
+
+
+
+        item FemaleRightArm
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Right Arm,
+        Icon	=	FemaleRightArm,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_RArm,
+    } 
+
+        item FemaleLeftLeg
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Left Leg,
+        Icon	=	FemaleLeftLeg,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_LLeg,
+    } 
+
+        item FemaleRightLeg
+
+    {
+        Weight	=	1,
+        Type	=	Food,
+        DisplayName	=	 Severed Female Right Leg,
+        Icon	=	FemaleRightLeg,
+        FoodType    =   Meat,
+        DaysTotallyRotten	=	3,
+        DaysFresh	=	3,
+        WorldStaticModel = Female_RLeg,
+    } 
+
+    
+        item FemaleSkull
+
+    {
+        Weight	=	1,
+        Type	=	Normal,
+        DisplayName	=	 Female Skull,
+        Icon	=	FemaleHead,
+        WorldStaticModel = Female_Skull,
+    }  
+
+        item FemaleSkullSkinned
+
+    {
+        Weight	=	1,
+        Type	=	Normal,
+        DisplayName	=	 Female Skull (Skinned),
+        Icon	=	FemaleHead,
+        WorldStaticModel = Female_SkullSkinned,
+    }  
+
+        item FemaleRibcage
+
+    {
+        Weight	=	1,
+        Type	=	Normal,
+        DisplayName	=	 Female Ribcage,
+        Icon	=	FemaleHead,
+        WorldStaticModel = Female_Ribcage,
+    }   
+
+        item FemaleRibcageSkinned
+
+    {
+        Weight	=	1,
+        Type	=	Normal,
+        DisplayName	=	 Female Ribcage (Skinned),
+        Icon	=	FemaleHead,
+        WorldStaticModel = Female_RibcageSkinned,
+    }   
+
+
+
+}
