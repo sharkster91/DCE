@@ -4,9 +4,10 @@ module ED
          item FemaleHead
 
     {
-        Weight	=	1,
-        Type	=	Food,
+        DisplayCategory = BodyPart,
+        Weight	=	1, 
         DisplayName	=	 Severed Female Head,
+        Type	=	Food,Normal
         Icon	=	FemaleHead,
         FoodType    =   Meat,
         DaysTotallyRotten	=	3,
@@ -17,8 +18,9 @@ module ED
         item FemaleTorso
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
-        Type	=	Food,
+        Type	=	Normal,
         DisplayName	=	 Severed Female Torso,
         Icon	=	FemaleTorso,
         FoodType    =   Meat,
@@ -30,8 +32,9 @@ module ED
         item FemaleLeftArm
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
-        Type	=	Food,
+        Type	=	Normal,
         DisplayName	=	 Severed Female Left Arm,
         Icon	=	FemaleLeftArm,
         FoodType    =   Meat,
@@ -43,8 +46,9 @@ module ED
         item FemaleLeftArmSkeleton
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
-        Type	=	Food,
+        Type	=	Normal,
         DisplayName	=	 Skeletal Female Left Arm,
         Icon	=	FemaleLeftArm,
         FoodType    =   Meat,
@@ -56,8 +60,9 @@ module ED
         item FemaleLeftArmSkinned
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
-        Type	=	Food,
+        Type	=	Normal,
         DisplayName	=	 Skinned Female Left Arm,
         Icon	=	FemaleLeftArm,
         FoodType    =   Meat,
@@ -71,8 +76,9 @@ module ED
         item FemaleRightArm
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
-        Type	=	Food,
+        Type	=	Normal,
         DisplayName	=	 Severed Female Right Arm,
         Icon	=	FemaleRightArm,
         FoodType    =   Meat,
@@ -84,8 +90,9 @@ module ED
         item FemaleLeftLeg
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
-        Type	=	Food,
+        Type	=	Normal,
         DisplayName	=	 Severed Female Left Leg,
         Icon	=	FemaleLeftLeg,
         FoodType    =   Meat,
@@ -97,8 +104,9 @@ module ED
         item FemaleRightLeg
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
-        Type	=	Food,
+        Type	=	Normal,
         DisplayName	=	 Severed Female Right Leg,
         Icon	=	FemaleRightLeg,
         FoodType    =   Meat,
@@ -111,6 +119,7 @@ module ED
         item FemaleSkull
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
         Type	=	Normal,
         DisplayName	=	 Female Skull,
@@ -121,6 +130,7 @@ module ED
         item FemaleSkullSkinned
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
         Type	=	Normal,
         DisplayName	=	 Female Skull (Skinned),
@@ -131,6 +141,7 @@ module ED
         item FemaleRibcage
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
         Type	=	Normal,
         DisplayName	=	 Female Ribcage,
@@ -141,6 +152,7 @@ module ED
         item FemaleRibcageSkinned
 
     {
+        DisplayCategory = BodyPart,
         Weight	=	1,
         Type	=	Normal,
         DisplayName	=	 Female Ribcage (Skinned),
