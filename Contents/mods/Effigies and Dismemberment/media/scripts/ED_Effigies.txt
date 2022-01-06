@@ -4,6 +4,7 @@ module ED
         item Effigy1
 
     {
+        DisplayCategory = Effigy,
         Weight	=	20,
         Type	=	Normal,
         DisplayName = Male Effigy,
@@ -14,6 +15,7 @@ module ED
         item Effigy2
 
     {
+        DisplayCategory = Effigy,
         Weight	=	20,
         Type	=	Normal,
         DisplayName = Male Effigy,
@@ -24,6 +26,7 @@ module ED
         item Effigy3
 
     {
+        DisplayCategory = Effigy,
         Weight	=	20,
         Type	=	Normal,
          DisplayName = Female Effigy,
@@ -34,6 +37,7 @@ module ED
         item Effigy4
 
     {
+        DisplayCategory = Effigy,
         Weight	=	20,
         Type	=	Normal,
         DisplayName = Female Effigy,
@@ -44,6 +48,7 @@ module ED
         item FemaleHeadonPike
 
     {
+        DisplayCategory = HeadStick,
         Weight	=	20,
         Type	=	Normal,
         Icon	=	MaleHead,
@@ -53,6 +58,7 @@ module ED
         item MaleHeadonPike
 
     {
+        DisplayCategory = HeadStick,
         Weight	=	20,
         Type	=	Normal,
         DisplayName	=	 Male Head (Piked),
@@ -63,6 +69,7 @@ module ED
         item FemaleHeadonStick
 
     {
+        DisplayCategory = HeadStick,
         Weight	=	20,
         Type	=	Normal,
         DisplayName	=	 Female Head (Mounted),
@@ -73,6 +80,7 @@ module ED
         item MaleHeadonStick
 
     {
+        DisplayCategory = HeadStick,
         Weight	=	20,
         Type	=	Normal,
         DisplayName	=	 Male Head (Mounted),
